@@ -1,0 +1,10 @@
+.box ,li {display:inline;
+    font-family:roboto;
+width: 50px;
+margin: 20px 
+;}
+video {width: 225px;
+height: 425px;}
+body {background-color: rgb(220, 43, 226);
+   width: 75pc; 
+margin: 100px;} 
